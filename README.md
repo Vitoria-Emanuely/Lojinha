@@ -1,0 +1,2 @@
+# Lojinha
+Lojinha de algo
